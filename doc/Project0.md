@@ -38,12 +38,14 @@ The upper push switch('1' in the picture) is the power button, and the other('4'
 
 To build kernel images and flash the device on your PC, development environment must be prepared. There are number of ways to do this. Choose the most appropriate one for you.
 
-### Using Prebuilt Packages for Ubuntu
+### Using Prebuilt Packages for Ubuntu(Recommended!!)
 
 * This is the recommended way if you own a PC that runs Ubuntu.
 * You can install Ubuntu side-by-side with existing OS on your machine, or erase existing OS and install Ubuntu on it. (Learn more [#1](https://help.ubuntu.com/lts/installation-guide/amd64/index.html) [#2](https://help.ubuntu.com/community/WindowsDualBoot))
 
 [Learn more about using prebuilt packages for Ubuntu](/doc/SetupUsingPPA.md)
+
+#### Followings are **not** recommended!!!
 
 ### Running Docker Container on GNU/Linux
 
