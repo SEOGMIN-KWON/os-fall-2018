@@ -22,7 +22,7 @@
     * Check out [this page](https://source.tizen.org/documentation/reference/flash-device?langswitch=en) to install `lthor`.
 * `sdb`
     * You need to install Tizen SDK to obtain `sdb` binary.
-    * Download Tizen SDK from [here](https://developer.tizen.org/development/tools/download?langswitch=en).
+    * Download Tizen SDK from [here](https://download.tizen.org/sdk/InstallManager/tizen-sdk-2.4b/).
     * `sdb` is located at `tizen-sdk/tools`. Add this to the `PATH` environment variable. Consult the documentation for your shell to do this.
 
 ## (Optional) Accessing Serial Device without sudo
