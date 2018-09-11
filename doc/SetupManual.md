@@ -22,7 +22,7 @@
     * Check out [this page](https://source.tizen.org/documentation/reference/flash-device?langswitch=en) to install `lthor`.
     * append "**deb [trusted=yes] http://download.tizen.org/tools/latest-release/Ubuntu_16.04/ /**" instead of "**deb http://download.tizen.org/tools/latest-release/Ubuntu_14.04/ /**"
 * `sdb`
-    * prerequitsite: jdk(https://github.com/infoscis/Wiki/wiki/Linux-%EC%84%9C%EB%B2%84%EC%97%90-JDK-%EC%84%A4%EC%B9%98)
+    * prerequitsite: jdk(Howto example: github.com/infoscis/Wiki/wiki/Linux-%EC%84%9C%EB%B2%84%EC%97%90-JDK-%EC%84%A4%EC%B9%98)
 		* You need to install Tizen SDK to obtain `sdb` binary.
     * Download Tizen SDK from [here](https://download.tizen.org/sdk/InstallManager/tizen-sdk-2.4b/).
     * `sdb` is located at `tizen-sdk/tools`. Add this to the `PATH` environment variable. Consult the documentation for your shell to do this.
