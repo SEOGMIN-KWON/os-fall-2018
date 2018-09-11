@@ -21,9 +21,9 @@ You need at least 3GB free space for development environment and kernel source t
 In terminal, type the following commands in sequence.
 
 ```bash
-sudo add-apt-repository -y ppa:cmssnu/os-env
+sudo add-apt-repository -y ppa:snuspl/os-env
 sudo apt-get update
-sudo apt-get install -y cmslab-os-env
+sudo apt-get install -y snuspl-os-env
 ```
 
 And you're done!

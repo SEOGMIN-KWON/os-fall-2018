@@ -63,9 +63,9 @@ Start your VM and insert the ISO image into the virtual disk drive. Follow the o
 On terminal in the virtual machine, execute the following commands in sequence.
 
 ```bash
-sudo add-apt-repository -y ppa:cmssnu/os-env
+sudo add-apt-repository -y ppa:snuspl/os-env
 sudo apt-get update
-sudo apt-get install -y cmslab-os-env
+sudo apt-get install -y snuspl-os-env
 ```
 
 ## Accessing Serial Console
