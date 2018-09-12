@@ -126,7 +126,7 @@ After the building is done,
 Just type
 
 ```bash
-flash
+lthor image.tar
 ```
 
 to flash the device using the image built. Take a screenshot of flashing process and submit to staffs.
