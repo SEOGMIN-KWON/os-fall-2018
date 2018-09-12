@@ -104,7 +104,7 @@ cd linux-3.10-artik
 
 And just type
 ```bash
-build
+./build
 ```
 to build the kernel image.
 
