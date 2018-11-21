@@ -2,7 +2,7 @@
 Proj3; Extend the deadline by *ONE DAY* using Bonus Day
 ===================
 
-## Summary
+### Summary
 
 Implement a new kernel synchronization primitive which provides reader writer lock based on device rotation
 
